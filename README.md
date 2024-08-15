@@ -1,7 +1,8 @@
 # Fine-Tuning-Paraphrasing-Models-Sample-PEFT
 
 
-# Projet de Paraphrasage avec T5 et PEFT
+
+
 
 Ce projet utilise des modèles T5 pour la génération de paraphrases en utilisant les techniques de fine-tuning standard et l'optimisation des hyperparamètres avec PEFT (Parameter Efficient Fine-Tuning). Le projet est divisé en deux parties principales :
 
